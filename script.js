@@ -21,7 +21,7 @@ const members = [
   {
     name: "Angeline Cherish Tanisha",
     role: "JavaScript Developer",
-    image: "https://i.pravatar.cc/300?img=12",
+    image: "Angeline.jpeg",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
     skills: ["JavaScript", "DOM", "Git"]
   }
