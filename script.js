@@ -7,7 +7,7 @@ const members = [
   {
     name: "Calvin Christofer Limasdi",
     role: "Frontend Developer",
-    image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
+    image: "Calvin.jpeg",
     description: "Saya fokus membangun tampilan web yang rapi, responsif, dan mudah digunakan melalui struktur HTML dan desain antarmuka yang konsisten.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
