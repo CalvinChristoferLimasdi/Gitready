@@ -31,21 +31,21 @@ Live Demo: [link-demo-jika-ada](#)
 
 ## Fitur Utama
 
-- [ ] Toggle Dark Mode
-- [ ] Like Counter interaktif
-- [ ] Responsive layout
-- [ ] _(tambahkan fitur lain sesuai pengembangan kelompok)_
+- [X] Toggle Dark Mode
+- [X] Like Counter interaktif
+- [X] Responsive layout
+- [X] _(tambahkan fitur lain sesuai pengembangan kelompok)_
 
 ---
 
 
 ## Contribution
 
-| Jokowi Muda | Role | Kontribusi |
+| Mie Baso | Role | Kontribusi |
 |---|---|---|
-| [Nama Anggota 1] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Nama Anggota 2] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Nama Anggota 3] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+| [Calvin Christofer Limasdi] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
+| [Michael Phangestu] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| [Angeline Cherish Tanisha] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
 ---
 
